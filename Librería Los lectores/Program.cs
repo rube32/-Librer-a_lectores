@@ -16,7 +16,7 @@ namespace Librería_Los_lectores
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Capa_de_datos());
         }
     }
 }
